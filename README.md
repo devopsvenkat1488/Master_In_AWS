@@ -28,8 +28,8 @@ This project is licensed under the MIT License. See the LICENSE file for details
 # Contact
 For questions or suggestions, feel free to reach out:
 
-Author: Venkatesh Sarivisetty
-LinkedIn: www.linkedin.com/in/venkateshsarivisetty
-Email: venkatesh.sarivisett015@gmail.com
+# Author: Venkatesh Sarivisetty
+# LinkedIn: www.linkedin.com/in/venkateshsarivisetty
+# Email: venkatesh.sarivisett015@gmail.com
 
 
